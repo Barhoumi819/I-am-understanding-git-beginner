@@ -48,3 +48,5 @@ def dompier_music(switches):
 
 
 dompier_music(["0100000101", "0100000101", "0110001000"])
+
+# this one too gg 

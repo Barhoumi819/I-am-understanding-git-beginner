@@ -25,3 +25,6 @@ def camel_case(sent) :
 
 
 camel_case("Hello my name is barhoumi")
+
+
+# yeah i think i failed guys gg 
