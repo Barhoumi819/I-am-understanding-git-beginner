@@ -1,0 +1,7 @@
+people.sql
+.env
+
+*.log
+node modules/
+
+!importnat.txt
