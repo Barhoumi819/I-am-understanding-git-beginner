@@ -4,4 +4,4 @@ people.sql
 *.log
 node modules/
 
-!importnat.txt
+importnat.txt
