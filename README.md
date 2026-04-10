@@ -5,3 +5,4 @@ remenber :
 -Stay focused, stay driven, stay away from opinion given — progress grows from consistency, not from approval given.
 
 and remenber say BismAllah Before eating!
+Islam is the True religion.
